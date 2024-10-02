@@ -1,0 +1,6 @@
+[submodule "BlogAPI"]
+	path = BlogAPI
+	url = git@github.com:egedolmaci/BlogAPI.git
+[submodule "todoAPI"]
+	path = todoAPI
+	url = git@github.com:egedolmaci/todoAPI.git
