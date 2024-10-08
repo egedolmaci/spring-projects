@@ -4,3 +4,6 @@
 [submodule "todoAPI"]
 	path = todoAPI
 	url = git@github.com:egedolmaci/todoAPI.git
+[submodule "WeatherAPI"]
+	path = WeatherAPI
+	url = https://github.com/egedolmaci/WeatherAPI
